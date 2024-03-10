@@ -1,0 +1,18 @@
+{
+  "name": "cron-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BIbhu Behera",
+  "license": "ISC",
+  "dependencies": {
+    "bodyparser-json-error": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "moment-timezone": "^0.5.45",
+    "node-cron": "^3.0.3"
+  }
+}
